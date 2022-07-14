@@ -73,7 +73,7 @@ if choice == '0. Giới thiệu dự án':
         st.balloons()
 if choice == '1. Mục tiêu kinh doanh':
     st.markdown("<h3 style='text-align: left; color: Blue;'>1. Mục tiêu kinh doanh</h3>", unsafe_allow_html=True)
-    st.image('tiki.JPG')
+    st.image('tiki.jpg')
     st.write("""
         - Tiki là một hệ sinh thái thương mại “all in one”, trong đó có tiki.vn, là một website thương mại điện tử đứng top 2 của Việt Nam, top 6 khu vực Đông Nam Á. Trên trang này đã triển khai nhiều tiện ích hỗ trợ nâng cao trải nghiệm người dùng và họ muốn xây dựng nhiều tiện ích hơn nữa.
         """)
